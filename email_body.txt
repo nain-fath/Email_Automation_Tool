@@ -1,0 +1,6 @@
+Hello {name},
+
+Please find your attached personalized report.
+
+Best regards,
+Your Team
