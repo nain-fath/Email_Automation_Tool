@@ -115,29 +115,38 @@ email-automation-tool/
 ├── main.py                 # CLI entry point
 ├── requirements.txt        # Python dependencies
 └── README.md
-Planned Improvements
-OAuth2 authentication for Gmail
 
-Web interface for managing campaigns
+---
 
-Retry logic for failed deliveries
+###Planned Improvements
+-OAuth2 authentication for Gmail
 
-Rich analytics and dashboards
+-Web interface for managing campaigns
 
-Docker support for deployment
+-Retry logic for failed deliveries
 
-Contributing
-We welcome contributions from the community.
+-Rich analytics and dashboards
 
-Fork the repository
+-Docker support for deployment
 
-Create a new branch (feature/my-feature)
+---
 
-Commit your changes
+###Contributing
 
-Open a pull request
+-We welcome contributions from the community.
+
+-Fork the repository
+
+-Create a new branch (feature/my-feature)
+
+-Commit your changes
+
+-Open a pull request
 
 Please follow our contribution guidelines and adhere to best practices.
 
-License
-This project is licensed under the MIT License.
+---
+
+###License
+
+-This project is licensed under the MIT License.
